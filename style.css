@@ -1,0 +1,392 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.grande {
+    width: 100%;
+
+
+}
+
+
+
+.logo-casa {
+    background-color: blue;
+    display: inline-block;
+    width: 100%;
+
+}
+
+.prime {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 20px;
+    height: 35px;
+}
+
+.lupa {
+    height: 20px;
+    margin-left: -60px;
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+
+.lupa:active {
+    opacity: .5;
+
+}
+
+
+.primeiro-header {
+    margin: 20px ;
+display: flex;
+
+}
+
+
+.link {
+    color: #ffffff;
+    margin: 30px 0px 0px 40px;
+    font-weight: 700px bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+
+
+
+.logo {
+    height: 50px;
+    margin: 20px;
+    display: inline-block;
+}
+
+
+.cupom {
+    height: 40px;
+    left: 10%;
+
+}
+
+
+
+
+.two {
+    background-color: #ffffff;
+    height: 55px;
+    padding-top: 10px;
+}
+
+
+
+
+.space {
+    margin: 30px 0px 0px 60px;
+    text-decoration: none;
+    color: dodgerblue;
+    font-weight: 400px;
+    font-size: 18px;
+}
+
+.midle {
+    background-color: mediumblue;
+    height: 250px;
+    align-items: normal;
+}
+
+.paragrafo {
+    color: #ffffff;
+    font-weight: 400px;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 5px;
+
+}
+
+.offers {
+    margin: 15px;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 60px;
+
+
+}
+
+.link-2 {
+    color: gold;
+    font-size: 20px;
+    display: block;
+    margin-left: 200px;
+
+
+}
+
+
+.segundo-titulo {
+    display: flex;
+    color: #ffffff;
+    font-weight: 600px;
+    font-size: 40px;
+    justify-content: center;
+    margin-top: -90px;
+    margin-left: 120px;
+}
+
+.terceiro-titulo {
+    float: right;
+    color: #ffffff;
+    font-weight: 400px;
+    font-size: 40px;
+    display: flex;
+    margin-right: 30px;
+    margin-top: -40px;
+}
+
+.link-3 {
+    color: gold;
+    float: right;
+    margin-top: 20px;
+    font-size: 20px;
+    position: relative;
+    right: -150px;
+}
+
+
+.wraper {
+    background-color: darkblue;
+    height: 400px;
+
+
+}
+
+.paragraph {
+    color: #ffffff;
+    font-weight: 400px;
+    font-size: 30px;
+    float: right;
+    margin-right: 80px;
+    margin-top: 40px;
+
+}
+
+.text {
+    color: #ffffff;
+    opacity: .7;
+    float: right;
+    margin-top: 80px;
+    margin-right: -230px;
+    font-weight: 400px;
+    font-size: 20px;
+
+}
+
+.seven {
+    color: #ffffff;
+    float: right;
+    margin-top: 90px;
+    margin-right: -300px;
+    font-weight: 800;
+    font-size: 150px;
+
+}
+
+.basics {
+    color: #ffffff;
+    float: right;
+    margin-top: 250px;
+    margin-right: -260px;
+    font-weight: 400px;
+    font-size: 20px;
+    opacity: .7;
+
+}
+
+.home {
+    font-weight: 900px;
+    font-size: 40px;
+    font-style: #ffffff;
+}
+
+
+
+
+
+.conteiner {
+    color: #ffffff;
+    float: right;
+    font-weight: 400px;
+    font-size: 20px;
+    opacity: .7;
+    margin-right: 185px;
+    margin-top: -60px;
+}
+
+.eletro {
+    margin-top: 60px;
+
+}
+
+.overs {
+    background-color: rgb(41, 38, 226);
+
+}
+
+
+section {
+    background: #ffffff;
+    width: 600px;
+    margin-right: 30px;
+
+}
+
+.titulo {
+    float: right;
+    font-weight: 600px;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: -45px;
+
+}
+
+
+
+.iphone {
+    height: 300px;
+    margin-top: 10px;
+
+}
+
+.preço,
+.text-2 {
+    float: right;
+    margin-top: 2px;
+    line-height: 25px;
+    margin-right: 18px;
+    font-weight: 400px;
+    font-size: 20px;
+
+
+}
+
+.preço {
+    margin-right: 271px;
+    margin-top: 20px;
+    text-decoration: line-through;
+    margin-left: 10px;
+    opacity: .6;
+}
+
+.azul  {
+    background-color: deepskyblue;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 100px;
+
+}
+
+
+
+.amarelo  {
+    background-color: gold;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: 100px;
+    margin-right: 80px;
+}
+
+.azul:hover {
+    opacity: .8;
+
+
+}
+
+.azul:active {
+    opacity: .5;
+
+
+}
+
+.amarelo:hover {
+    opacity: .8;
+
+
+}
+
+
+.amarelo:active {
+    opacity: .5;
+
+}
+
+.rodape {
+    background-color: rgb(4, 4, 105);
+    height: 40px;
+}
+
+.final {
+    color: gold;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 40px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+a:hover {
+
+    opacity: .8;
+
+
+}
+
+
+
+a:active {
+    opacity: .5;
+
+}
+
+input {
+    height: 25px;
+    width: 300px;
+    margin: 0px 10px;
+    outline: 0;
+}
+
+.cads {
+    background-color: hsl(0, 90%, 47%);
+    border-radius: 10px;
+    height: 30px;
+    width: 180px;
+    margin-left: 20px;
+    color: #ffffff;
+    font-weight: 400px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.cads:hover {
+    opacity: .8;
+
+}
+
+.cads:active {
+    opacity: .5;
+
+}
